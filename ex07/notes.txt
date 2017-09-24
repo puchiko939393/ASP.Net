@@ -1,0 +1,3 @@
+29/7/2017
+Entity framework
+VS 2017 web.config connection problem

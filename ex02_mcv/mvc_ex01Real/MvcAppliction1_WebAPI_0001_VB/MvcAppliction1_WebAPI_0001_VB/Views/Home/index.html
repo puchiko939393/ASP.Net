@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title> Product List App</title>
+	<meta charset="utf-8" />
+
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+    <script type="text/javascript">
+        //send AJAX request
+    $(document).ready(function(){
+        $.getJSON("api/Product/",
+            function(data){
+
+                $.each(data, function (key, val) {
+
+                    var str = val.ProductName + ':$' + val.ProductPrice;
+                    $('<li/>', {text:str}).appendTo($('product'));
+                });
+            });
+        });
+
+        function find(){
+            var id= $('#proId').val();
+            $.getJSON("api/Product/" + id,
+                function(data){
+                    var str=data.ProductName+':$'+ data.ProductPrice;
+                    $('#product').text(str);
+                })
+            .fail(
+                function(jqXHR, textStatus,err){
+                    $('#product').text('Error: ' +err);
+        });
+
+     }
+
+    </script>
+</head>
+<body>
+    <div>
+        <h2>All Products</h2>
+        <ul id="products" />
+    </div>
+    <div>
+        <h2>Search by ID</h2>
+        <input type="text" id="prodId" size="5" />
+        <input type="button" value="Search" onclick="find();" />
+        <p id="product" />
+    </div>
+
+ 
+</body>
+
+</html>

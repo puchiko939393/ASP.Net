@@ -1,0 +1,9 @@
+G:\01ASP.net\example and test\ex06\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+G:\01ASP.net\example and test\ex06\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+G:\01ASP.net\example and test\ex06\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+G:\01ASP.net\example and test\ex06\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+G:\01ASP.net\example and test\ex06\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+G:\01ASP.net\example and test\ex06\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+G:\01ASP.net\example and test\ex06\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+G:\01ASP.net\example and test\ex06\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+G:\01ASP.net\example and test\ex06\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb

@@ -1,0 +1,8 @@
+G:\01ASP.net\example and test\ex01\calendar_control\calendar_control\bin\calendar_control.dll
+G:\01ASP.net\example and test\ex01\calendar_control\calendar_control\bin\calendar_control.pdb
+G:\01ASP.net\example and test\ex01\calendar_control\calendar_control\bin\calendar_control.xml
+G:\01ASP.net\example and test\ex01\calendar_control\calendar_control\obj\Debug\calendar_control.Resources.resources
+G:\01ASP.net\example and test\ex01\calendar_control\calendar_control\obj\Debug\calendar_control.vbproj.GenerateResource.Cache
+G:\01ASP.net\example and test\ex01\calendar_control\calendar_control\obj\Debug\calendar_control.dll
+G:\01ASP.net\example and test\ex01\calendar_control\calendar_control\obj\Debug\calendar_control.xml
+G:\01ASP.net\example and test\ex01\calendar_control\calendar_control\obj\Debug\calendar_control.pdb

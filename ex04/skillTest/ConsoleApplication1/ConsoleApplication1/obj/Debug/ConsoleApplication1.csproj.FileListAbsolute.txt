@@ -1,0 +1,6 @@
+G:\01ASP.net\example and test\ex04\skillTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\01ASP.net\example and test\ex04\skillTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\01ASP.net\example and test\ex04\skillTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\01ASP.net\example and test\ex04\skillTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\01ASP.net\example and test\ex04\skillTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\01ASP.net\example and test\ex04\skillTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

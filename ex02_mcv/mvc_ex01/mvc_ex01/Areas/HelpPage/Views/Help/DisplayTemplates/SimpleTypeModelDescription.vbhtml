@@ -1,0 +1,3 @@
+@Imports mvc_ex01.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
